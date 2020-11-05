@@ -1,5 +1,5 @@
 # Hackathon: Hello World! by Polkadot
-## [ CHALLENGES] Challenge title
+## [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 
 ### Getting started
 
